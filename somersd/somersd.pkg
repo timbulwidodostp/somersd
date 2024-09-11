@@ -1,5 +1,27 @@
-d 'DEA': Data envelopment analysis
+d 'somersd': Somers' D or Kendall's tau-a with confidence median differences intervals Use somersd With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _bcsf_bisect.mata
+f _bcsf_bracketing.mata
+f _bcsf_regula.mata
+f _bcsf_ridders.mata
+f _blncdtree.mata
+f _somdtransf.mata
+f _u2jackpseud.mata
+f _v2jackpseud.mata
+f blncdtree.mata
+f cendif.ado
+f cendif.sthlp
+f censlope.ado
+f censlope.sthlp
+f censlope_iteration.sthlp
+f lsomersd.mlib
+f mf_bcsf_bracketing.sthlp
+f mf_blncdtree.sthlp
+f mf_somdtransf.sthlp
+f mf_u2jackpseud.sthlp
+f somers_p.ado
+f somersd.ado
+f somersd.sthlp
+f somersd_mata.sthlp
+f tidot.mata
+f tidottree.mata
